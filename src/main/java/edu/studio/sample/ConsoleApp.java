@@ -4,7 +4,7 @@ public class ConsoleApp {
 
     public static void main(String[] args) {
         
-        System.out.println("Hello Maven change is made for the project");
+        System.out.println("Hello Maven change is made");
         
     }
 
